@@ -39,11 +39,6 @@ Please include the following:
 
 Please submit to the bugs to the Bugs tab in Nexus.
 
-## Mod Compatibility
-
-This mod will overhaul many systems in due time. Some mods may not be compatible. If the mods affect 
-  gameplay features that already exist, be warned!
-
 ## AI Disclosure
 
 This code is 100% written by a fleshy meatbag (me), but Claude was enlisted to dissect the problem to gain 
